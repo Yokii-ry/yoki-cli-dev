@@ -13,10 +13,17 @@
   "files": [
     "lib"
   ],
+  "bin":{
+    "yoki-cli-dev/core":"bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
     "@yoki-cli-dev/utils": "^1.0.2"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "1a29f9adb943573dcae4a308bdb84978ff391813"
 }
