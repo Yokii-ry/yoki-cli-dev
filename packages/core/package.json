@@ -1,6 +1,6 @@
 {
   "name": "@yoki-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yoki-cli-dev",
   "author": "Yokii-ry <853751534@qq.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@yoki-cli-dev/utils":"^1.0.0"
+    "@yoki-cli-dev/utils": "^1.0.1"
   }
 }
