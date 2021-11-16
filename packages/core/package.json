@@ -1,6 +1,6 @@
 {
   "name": "@yoki-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "yoki-cli-dev",
   "author": "Yokii-ry <853751534@qq.com>",
   "homepage": "",
@@ -13,14 +13,14 @@
   "files": [
     "lib"
   ],
-  "bin":{
-    "yoki-cli-dev/core":"bin/index.js"
+  "bin": {
+    "yoki-cli-dev/core": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@yoki-cli-dev/utils": "^1.0.2"
+    "@yoki-cli-dev/utils": "^1.0.3"
   },
   "publishConfig": {
     "access": "public"
